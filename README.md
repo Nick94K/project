@@ -1,1 +1,1 @@
-# project
+# project - учебный проект
